@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Nataliia 👋
+
+Having accumulated over 5 years of commercial experience as a graphic designer, I am adept at utilizing Adobe Creative Suite to transform my creative ideas into reality. Currently, I am actively engaged in full-stack developer training, broadening my expertise to encompass both front-end and back-end development.
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/nataliia-h-833b06105/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
 
 <!--
 **nataliiahodnia/nataliiahodnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
