@@ -3,10 +3,11 @@
 Having accumulated over 5 years of commercial experience as a graphic designer, I am adept at utilizing Adobe Creative Suite to transform my creative ideas into reality. Currently, I am actively engaged in full-stack developer training, broadening my expertise to encompass both front-end and back-end development.
 
 <p style="text-align: center;">
-   <a href="https://www.linkedin.com/in/nataliia-h-833b06105/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://www.linkedin.com/in/nataliia-h-833b06105/" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"/>
    </a>
 </p>
+
 
 
 <!--
