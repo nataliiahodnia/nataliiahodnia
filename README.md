@@ -10,6 +10,9 @@ Having accumulated over 5 years of commercial experience as a graphic designer, 
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:nataliya.godnya@gmail.com'>nataliya.godnya@gmail.com</a>
+</p>
 
 
 <!--
