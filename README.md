@@ -5,10 +5,9 @@ Having accumulated over 5 years of commercial experience as a graphic designer, 
 <p style="text-align: center;">
    <a href="https://www.linkedin.com/in/kwitny/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-         📫 How to reach me: <a href='mailto:nataliya.godnya@gmail.com'>nataliya.godnya@gmail.com</a>
 </p>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:nataliya.godnya@gmail.com'>nataliya.godnya@gmail.com</a>
+<p style="text-align: center; font-size: 16px;">
+   📫 How to reach me: <a href='mailto:nataliya.godnya@gmail.com' style="color: #0077B5; text-decoration: none;">nataliya.godnya@gmail.com</a>
 </p>
 
 
